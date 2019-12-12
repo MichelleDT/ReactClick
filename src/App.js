@@ -42,7 +42,7 @@ class App extends Component {
 
     render() {
         return (
-            <Route exact path={`/`} render={ (routerProps) => < Home routerProps={routerProps} App={this.App} />} />
+        
             <div className="container-fluid">
                     <Nav correct={this.state.correct} gameWon={this.state.gameWon} score={this.state.score} highScore={this.state.highScore}/>
                     <Row></Row>
