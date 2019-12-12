@@ -21,7 +21,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/MichelleDT/ClickyGame",
+  "homepage": "http://{MichelleDT}.github.io/{ClickyGame}",
   "main": "index.js",
   "devDependencies": {},
   "author": "",
